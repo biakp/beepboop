@@ -1,0 +1,38 @@
+.corpo { 
+     font-size: 12px;
+     font-family:'Trebuchet MS' , Arial, sans-serif;
+     box-sizing: content-box;
+     border-radius: 5px;
+     padding:5px;
+     width:300px;
+     box-shadow: 1px 1px 1px 1px rgb(208, 162, 0);
+     background-color:rgb(1, 18, 62);
+ }
+
+.italico {
+    font-style: italic;
+}
+.titulo {
+    font-size: 20px;
+    color:white;
+}
+.negrito {
+    font-weight: bolder;
+}
+
+.lista {
+    list-style: none;
+    padding-left: 0px;    
+}
+
+.infos { 
+    box-sizing: content-box;
+    border: solid rgb(208, 162, 0) 1px;
+    border-radius: 5px;       
+    padding: 10px;    
+    color:white;
+}
+.img {
+    padding-bottom:5px; 
+    
+}
