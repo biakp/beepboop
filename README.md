@@ -1,3 +1,2 @@
 # beepboop
-Udacity poject for my nanodegree 
-just for fun :)
+Udacity poject for my nanodegree :)
